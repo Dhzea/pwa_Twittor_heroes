@@ -6,7 +6,7 @@ const DYNAMIC_CACHE = "dynamic-v1";
 const INMUTABLE_CACHE = "inmutable-v1";
 
 const APP_SHELL = [
-  "/", //ruta principal de la pagina
+  //   "/", //ruta principal de la pagina solo funciona en dev
   "css/style.css",
   "img/favicon.ico",
   "img/avatars/spiderman.jpg",
